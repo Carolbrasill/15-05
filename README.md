@@ -13,11 +13,9 @@
 ## 📋 Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
-- [Funcionalidades](#-funcionalidades)
+- [Funcionalidades e Roadmap](#-funcionalidades-e-roadmap-metas-futuras)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Como Executar o Projeto](#-como-executar-o-projeto)
-- [Padrão de Commits](#-padrão-de-commits)
-
 ---
 
 ## 💻 Sobre o Projeto
