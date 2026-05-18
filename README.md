@@ -5,7 +5,7 @@
 <h1 align="center"> WorldsSkills - #23 Robótica Móvel </h1>
 
 <p align="center">
-  > Repositório dedicado aos códigos e soluções dos simulados para a WorldSkills.
+  Repositório dedicado aos códigos e soluções dos simulados para a WorldSkills.
 </p>
 
 ---
@@ -14,9 +14,8 @@
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades e Roadmap](#-funcionalidades-e-roadmap-metas-futuras)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [Como Executar o Projeto](#-como-executar-o-projeto)
----
 
 ## 💻 Sobre o Projeto
 
